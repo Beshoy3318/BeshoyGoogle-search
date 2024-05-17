@@ -1,0 +1,333 @@
+.search{
+    
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    border-radius: 28px;
+    background: rgb(228, 227, 227);
+    width: 600px;
+    margin: 40px auto 0px;
+}
+
+.search-input{ 
+    font-size: 16px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);;
+    margin-left: 14px;
+    outline: none;
+    border: none;
+    background: none;
+    flex: 1;
+}
+
+.search-icon{
+    color: rgba(0, 0, 0, 0.25);
+}
+.logo{ 
+    width: 400px;
+    display: block;
+    margin: 100px auto 0px;
+}
+
+button{ 
+    cursor: pointer;
+    border: none;
+    float: right;
+}
+.buttons{ 
+    width: max-content;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    margin: 40px auto 0px;
+}
+
+.button{ 
+   background-color: #4885ed;
+   border: none;
+   color: #fff;
+   font-size: 14px;
+   padding: 10px 20px;
+   margin: 5px;
+   border-radius: 4px;
+   outline: none;
+}
+
+
+.Tsearch{ 
+    font-size: 13px;
+    font-weight: bold;   
+    background-color: transparent;
+    position: absolute;
+    top: 4%;
+    left: 93%;
+    right: 10%;
+    padding: 10px;
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.Image2{ 
+    font-size: 13px;
+    font-weight: bold;   
+    background-color: transparent;
+    position: absolute;
+    top: 4%;
+    left: 93%;
+    right: 10%;
+    padding: 10px;
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.Tadvance{
+    font-weight: bold;
+    font-size: 13px;
+    background-color: transparent;
+    position: absolute;
+    top: 4.5%;
+    left: 82%;
+    right: 10%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+}
+.ITadvance{
+    font-weight: bold;
+    font-size: 13px;
+    background-color: transparent;
+    position: absolute;
+    top: 4.5%;
+    left: 76%;
+    right: 10%;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+}
+.ITadvance:hover{ text-decoration: underline;}
+
+.Tsearch:hover{ text-decoration: underline;}
+
+.Image2:hover{ 
+    text-decoration: underline;
+}
+.Tadvance:hover{text-decoration: underline;}
+
+.ImageIC{ font-size: 26px;
+    position: absolute;
+    top: 28%;
+    left: 58%;
+    right: 54%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    width: 90px;
+}
+
+
+
+.logo2{ 
+    position: absolute;
+    top: 3%;
+    left: 57%;
+   
+    
+}
+
+.Apps{ 
+    position: absolute;
+    top: 5%;
+    left: 89%;
+    color: black;
+    cursor: pointer;
+}
+
+
+
+.Tsearch2{
+    font-size: 13px;
+    font-weight: bold;   
+    background-color: transparent;
+    position: absolute;
+    top: 4.5%;
+    left: 82%;
+    right: 10%;
+    padding: 10px;
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.Tsearch2:hover{ text-decoration: underline;}
+.TImage2{
+    font-size: 13px;
+    font-weight: bold;   
+    background-color: transparent;
+    position: absolute;
+    top: 4.5%;
+    left: 77%;
+    right: 10%;
+    padding: 10px;
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.TImage2:hover{ text-decoration: underline;}
+
+
+
+
+.all{ background-color: rgb(223, 223, 223);
+    position: absolute;
+    top: 17%;
+    padding: 173px;
+    width: 948px;
+}
+
+.asearch1{ 
+    position: absolute;
+    top: 7%;
+    left: 30%;
+    width: max-content;
+    padding: 15px;
+    width: 850px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 14px;
+    outline: none;
+    background: rgb(255, 255, 255);
+    flex: 1;
+
+}
+
+
+.asearch2{  
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    width: max-content;
+    padding: 15px;
+    width: 850px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);;
+    margin-left: 14px;
+    outline: none;
+    background: rgb(255, 255, 255);
+    flex: 1;
+
+}
+
+
+.asearch3{ 
+   
+    position: absolute;
+    top: 43%;
+    left: 30%;
+    width: max-content;
+    padding: 15px;
+    width: 850px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);;
+    margin-left: 14px;
+    outline: none;
+    background: rgb(255, 255, 255);
+    flex: 1;
+
+}
+
+
+.asearch4{ 
+   
+    position: absolute;
+    top: 61%;
+    left: 30%;
+    width: max-content;
+    padding: 15px;
+    width: 850px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);;
+    margin-left: 14px;
+    outline: none;
+    background: rgb(255, 255, 255);
+    flex: 1;
+}
+
+
+
+.first{
+  
+    font-size: 16px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10%;
+    left: 11%;
+}
+
+.second{
+    
+    font-size: 16px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 28%;
+    left: 8.9%;
+}
+
+.third{
+   
+    font-size: 16px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 46%;
+    left: 10.5%;
+}
+
+.forth{
+   
+    font-size: 16px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 64%;
+    left: 10.5%;
+}
+.button6{
+    position: absolute;
+    top: 74%;
+    left: 87.4%;
+    background-color: #4885ed;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 20px;
+    margin: 5px;
+    outline: none;
+}
+.button6:hover{ background-color: rgb(36, 165, 36);}
+
+.signin{
+    position: absolute;
+    top: 4%;
+    left: 92.4%;
+    background-color: #4885ed;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    padding: 7px 17px;
+    margin: 5px;
+    outline: none;
+    cursor: pointer;
+
+}
